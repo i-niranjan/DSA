@@ -62,3 +62,7 @@
 //   }
 // }
 // console.log(arr);
+
+let arr = [10, 20, 30, 40, 50];
+let newarr = arr.slice(1, 6);
+console.log(newarr);
